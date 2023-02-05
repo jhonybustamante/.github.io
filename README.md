@@ -1,4 +1,4 @@
-# Cifrador-Descifrador.github.io
+# Cifrador-Descifrador
 <h1>Encriptador y desencriptador utilizando html css y javascript<h1>
 
 ![image](https://user-images.githubusercontent.com/77082036/212497061-7f5ee0b9-fd8c-4d43-97af-4462c91db3de.png)
